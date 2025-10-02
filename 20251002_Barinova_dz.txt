@@ -1,0 +1,17 @@
+Домашнее задание!
+
+Установить VS Code и Python
+https://code.visualstudio.com/
+https://www.python.org/
+
+Учебник
+https://top-academy.site/n4w51w8i7pjmfrhmrjnh41d85j3sow4g/
+
+Репозиторий
+https://github.com/doublewera/Python511
+
+Презентация по типам данных:
+https://docs.google.com/presentation/d/1jbuJlmVomIyWr9_R7VoMigDskF0nIx07iZ7lTdVJZ2E/
+
+Практическая работа
+https://top-academy.site/bm1t3mryfwszo2epekwgow4fdt7amgxo/
