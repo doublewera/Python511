@@ -1,0 +1,12 @@
+Сделать ДЗ с последнего слайда
+
+https://docs.google.com/presentation/d/1VGimOsnzyfY1PU28ffR2rldvPwTQ-kU0ubGBlKKusM4
+
+Сделать аккаунт на https://github.com/
+и не потерять свой пароль!
+Отчетность: прислать мне ссылку на профиль.
+
+Итого: в одном архиве
+20251015_Barinova_exeptions.zip
+|___my_github.txt
+|___age_exception.py
